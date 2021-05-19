@@ -1,5 +1,5 @@
 # 80
-![[Pasted image 20210518194042.png]]
+![](../Attachments/Pasted%20image%2020210518195138.png)
 ### Nikto
 ```
 - Nikto v2.1.6
