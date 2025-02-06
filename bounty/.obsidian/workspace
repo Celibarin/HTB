@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "a2c5ff5d6672a37e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3aac5b750c49595",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "exploit/vulnerability.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c34c508fede2526",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebf0ae1d88e66994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec01219b703e823",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d068377c065f676",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4152cc4250e65c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "d68da5794839afd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29fed9fa38eeff3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "exploit/vulnerability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f3aac5b750c49595",
+  "lastOpenFiles": [
+    "exploit/vulnerability.md",
+    "exploit/enum.md",
+    "z-loot/root.md",
+    "enum/http(s).md",
+    "enum/nmap.md",
+    "privesc(1)/enum.md",
+    "privesc(1)/vulnerability.md",
+    "z-loot/user.md",
+    "enum/smtp.md"
+  ]
+}

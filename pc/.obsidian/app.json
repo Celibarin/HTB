@@ -1,0 +1,9 @@
+{
+  "foldHeading": true,
+  "foldIndent": true,
+  "enabledPlugins": [],
+  "attachmentFolderPath": "Attachments",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "readableLineLength": false
+}
